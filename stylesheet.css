@@ -1,0 +1,203 @@
+ @import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;400;600;700&display=swap');
+ * {
+     font-family: 'Inter', sans-serif;
+ }
+ 
+ header {
+     background-color: #0032E3;
+ }
+ 
+ .hero {
+     background-color: #0032e3;
+     margin: 0 100px 0 100px;
+ }
+ 
+ .logo {
+     height: 35px;
+     width: 104px;
+ }
+ 
+ .hero-heading {
+     width: 548px;
+     margin: 168px 0 0 0;
+     font-weight: 600;
+     font-size: 70px;
+     color: white;
+ }
+ 
+ .hero-text {
+     font-family: 'Inter', sans-serif;
+     color: #BCCBFE;
+     width: 423px;
+     height: 96px;
+     font-weight: 400;
+     font-size: 18px;
+     margin: 0 0 120px 0;
+ }
+ 
+ .hero-img {
+     width: 1170px;
+     height: 780px;
+     margin: -580px 0 0 720px;
+ }
+ 
+ .demo {
+     margin: 80px 0 150px 0;
+     justify-content: center;
+     display: flex;
+     gap: 250px;
+ }
+ 
+ #demo-heading {
+     width: 419px;
+     height: 96px;
+     font-weight: 600;
+     font-size: 36px;
+ }
+ 
+ #demo-text {
+     width: 368px;
+     height: 292px;
+     color: #6D6D6D;
+ }
+ 
+ #video-button {
+     width: 229px;
+     height: 61px;
+     font-weight: 700;
+     font-size: 18px;
+     border-radius: 10px;
+     background-color: #0032E3;
+ }
+ 
+ .rick {
+     display: flex;
+     margin: 100px;
+ }
+ 
+ .rick-img {
+     width: 498px;
+     height: 564px;
+     border-radius: 8px;
+     margin: 80px 0 0 0;
+ }
+ 
+ .rick-description {
+     margin: 100px 0 0 100px;
+ }
+ 
+ .rick-heading {
+     width: 664px;
+     height: 92px;
+     font-weight: 600;
+     font-size: 36px;
+ }
+ 
+ .rick-story {
+     font-weight: 400;
+     font-size: 21px;
+ }
+ 
+ .rick-text {
+     display: flex;
+     gap: 50px;
+     color: #6D6D6D;
+ }
+ 
+ .rick-heading span {
+     color: #0032E3;
+ }
+ 
+ .coin-list {
+     margin: 100px;
+ }
+ 
+ .holding {
+     font-weight: 700;
+     font-size: 15px;
+ }
+ 
+ .chart {
+     display: flex;
+     gap: 100px;
+ }
+ 
+ .crypto {
+     display: flex;
+     gap: 30px;
+ }
+ 
+ .coins {
+     font-weight: 600;
+ }
+ 
+ .coin-value {
+     font-weight: 400;
+     font-size: 21px;
+     color: #6D6D6D;
+ }
+ 
+ #coinbtn {
+     width: 70px;
+     height: 30px;
+ }
+ 
+ .privacy {
+     margin: -150px 0 0 0;
+     display: flex;
+     background-color: #E8EEF8;
+ }
+ 
+ .key-img {
+     margin: -110px 0 0 260px;
+ }
+ 
+ #privacy {
+     margin: 90px 0 0 0;
+ }
+ 
+ .privacy-heading {
+     font-weight: 600;
+     font-size: 24px;
+     width: 437px;
+     height: 89px;
+ }
+ 
+ .privacy-description {
+     font-size: 16px;
+     font-weight: 400;
+     width: 349px;
+     height: 125px;
+     color: #3C4151;
+ }
+ 
+ .privacy-subheading {
+     font-size: 15px;
+     font-weight: 700;
+     font-family: 'Inter', sans-serif;
+ }
+ 
+ .call-to-action {
+     margin: 0 0 0 300px;
+ }
+ 
+ .footer-text {
+     width: 355px;
+     height: 48px;
+     font-size: 16px;
+     font-weight: 400;
+     color: #6D6D6D;
+ }
+ 
+ .copyright {
+     margin: 100px 0 0 0;
+     width: 250px;
+     height: 19px;
+     font-weight: 400;
+     font-size: 14px;
+ }
+ 
+ .footer-heading {
+     font-weight: 600;
+     font-size: 16px;
+ }
